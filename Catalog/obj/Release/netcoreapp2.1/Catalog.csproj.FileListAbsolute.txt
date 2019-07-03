@@ -1,0 +1,11 @@
+D:\Users\dschong\source\repos\Catalog\Catalog\bin\Release\netcoreapp2.1\Catalog.deps.json
+D:\Users\dschong\source\repos\Catalog\Catalog\bin\Release\netcoreapp2.1\Catalog.runtimeconfig.json
+D:\Users\dschong\source\repos\Catalog\Catalog\bin\Release\netcoreapp2.1\Catalog.runtimeconfig.dev.json
+D:\Users\dschong\source\repos\Catalog\Catalog\bin\Release\netcoreapp2.1\Catalog.dll
+D:\Users\dschong\source\repos\Catalog\Catalog\bin\Release\netcoreapp2.1\Catalog.pdb
+D:\Users\dschong\source\repos\Catalog\Catalog\obj\Release\netcoreapp2.1\Catalog.csprojAssemblyReference.cache
+D:\Users\dschong\source\repos\Catalog\Catalog\obj\Release\netcoreapp2.1\Catalog.csproj.CoreCompileInputs.cache
+D:\Users\dschong\source\repos\Catalog\Catalog\obj\Release\netcoreapp2.1\Catalog.AssemblyInfoInputs.cache
+D:\Users\dschong\source\repos\Catalog\Catalog\obj\Release\netcoreapp2.1\Catalog.AssemblyInfo.cs
+D:\Users\dschong\source\repos\Catalog\Catalog\obj\Release\netcoreapp2.1\Catalog.dll
+D:\Users\dschong\source\repos\Catalog\Catalog\obj\Release\netcoreapp2.1\Catalog.pdb
